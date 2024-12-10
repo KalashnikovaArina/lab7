@@ -8,3 +8,13 @@ C:\Users\Арина\Desktop\computer_graphics-master\lab7\task1\Graphics7\obj\De
 C:\Users\Арина\Desktop\computer_graphics-master\lab7\task1\Graphics7\obj\Debug\Graphics6.csproj.CoreCompileInputs.cache
 C:\Users\Арина\Desktop\computer_graphics-master\lab7\task1\Graphics7\obj\Debug\Graphics6.exe
 C:\Users\Арина\Desktop\computer_graphics-master\lab7\task1\Graphics7\obj\Debug\Graphics6.pdb
+C:\Users\Арина\Desktop\lab7\lab7\bin\Debug\Graphics6.exe.config
+C:\Users\Арина\Desktop\lab7\lab7\bin\Debug\Graphics6.exe
+C:\Users\Арина\Desktop\lab7\lab7\bin\Debug\Graphics6.pdb
+C:\Users\Арина\Desktop\lab7\lab7\obj\Debug\Graphics6.csproj.AssemblyReference.cache
+C:\Users\Арина\Desktop\lab7\lab7\obj\Debug\Graphics6.Form1.resources
+C:\Users\Арина\Desktop\lab7\lab7\obj\Debug\Graphics6.Properties.Resources.resources
+C:\Users\Арина\Desktop\lab7\lab7\obj\Debug\Graphics6.csproj.GenerateResource.cache
+C:\Users\Арина\Desktop\lab7\lab7\obj\Debug\Graphics6.csproj.CoreCompileInputs.cache
+C:\Users\Арина\Desktop\lab7\lab7\obj\Debug\Graphics6.exe
+C:\Users\Арина\Desktop\lab7\lab7\obj\Debug\Graphics6.pdb

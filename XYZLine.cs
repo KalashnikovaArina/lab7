@@ -30,12 +30,18 @@ namespace Graphics6
             A = A.Transform(t);
             B = B.Transform(t);
         }
-
         public void Draw(Graphics g, Transform projection, int width, int height)
         {
             var c = A.Transform(projection).NormalizedToDisplay(width, height);
             var d = B.Transform(projection).NormalizedToDisplay(width, height);
-            g.DrawLine(Pens.Black, (float)c.X, (float)c.Y, (float)d.X, (float)d.Y);
+            g.DrawLine(new Pen(Color.Black), (float)c.X, (float)c.Y, (float)d.X, (float)d.Y);
+        }
+
+        public void Draw(Graphics g, Transform projection, int width, int height, Pen pen = null)
+        {
+            var c = A.Transform(projection).NormalizedToDisplay(width, height);
+            var d = B.Transform(projection).NormalizedToDisplay(width, height);
+            g.DrawLine(pen, (float)c.X, (float)c.Y, (float)d.X, (float)d.Y);
         }
         override public string ToString()
         {

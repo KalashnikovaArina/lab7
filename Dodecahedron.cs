@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Drawing;
+using System.Threading;
 
 namespace Graphics6
 {
@@ -41,9 +42,13 @@ namespace Graphics6
         public void Draw(Graphics g, Transform projection, int width, int height)
         {
             if (Points.Count != 6) return;
-
+            int count = -1;
             foreach (var Verge in Verges)
-                Verge.Draw(g, projection, width, height);
+            {
+                count += 1;
+                Verge.Draw(g, count, projection, width, height);
+
+            }
         }
     }
 }

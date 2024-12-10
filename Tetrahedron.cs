@@ -82,8 +82,13 @@ namespace Graphics6
 
         public void Draw(Graphics g, Transform projection, int width, int height)
         {
+            int count = -1;
             foreach (var Verge in Verges)
-                Verge.Draw(g, projection, width, height);
+            {
+                count += 1;
+                Verge.Draw(g, count, projection, width, height);
+            }
+                
         }
 
         override public string ToString()
