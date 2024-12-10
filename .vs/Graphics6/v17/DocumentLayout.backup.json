@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\computer_graphics-master\\lab7\\task1\\Graphics7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39721C99-A3BC-400A-8428-066A687450FE}|Graphics6.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\computer_graphics-master\\lab7\\task1\\Graphics7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39721C99-A3BC-400A-8428-066A687450FE}|Graphics6.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39721C99-A3BC-400A-8428-066A687450FE}|Graphics6.csproj|c:\\users\\\u0430\u0440\u0438\u043D\u0430\\desktop\\computer_graphics-master\\lab7\\task1\\graphics7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39721C99-A3BC-400A-8428-066A687450FE}|Graphics6.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39721C99-A3BC-400A-8428-066A687450FE}|Graphics6.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\computer_graphics-master\\lab7\\task1\\Graphics7\\tetrahedron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39721C99-A3BC-400A-8428-066A687450FE}|Graphics6.csproj|solutionrelative:tetrahedron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39721C99-A3BC-400A-8428-066A687450FE}|Graphics6.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\computer_graphics-master\\lab7\\task1\\Graphics7\\verge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39721C99-A3BC-400A-8428-066A687450FE}|Graphics6.csproj|solutionrelative:verge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39721C99-A3BC-400A-8428-066A687450FE}|Graphics6.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\computer_graphics-master\\lab7\\task1\\Graphics7\\primitive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39721C99-A3BC-400A-8428-066A687450FE}|Graphics6.csproj|solutionrelative:primitive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39721C99-A3BC-400A-8428-066A687450FE}|Graphics6.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\computer_graphics-master\\lab7\\task1\\Graphics7\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39721C99-A3BC-400A-8428-066A687450FE}|Graphics6.csproj|solutionrelative:transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39721C99-A3BC-400A-8428-066A687450FE}|Graphics6.csproj|C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\computer_graphics-master\\lab7\\task1\\Graphics7\\icosahedron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39721C99-A3BC-400A-8428-066A687450FE}|Graphics6.csproj|solutionrelative:icosahedron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Verge.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\computer_graphics-master\\lab7\\task1\\Graphics7\\Verge.cs",
+              "RelativeDocumentMoniker": "Verge.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\computer_graphics-master\\lab7\\task1\\Graphics7\\Verge.cs",
+              "RelativeToolTip": "Verge.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:06:21.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Icosahedron.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\computer_graphics-master\\lab7\\task1\\Graphics7\\Icosahedron.cs",
+              "RelativeDocumentMoniker": "Icosahedron.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\computer_graphics-master\\lab7\\task1\\Graphics7\\Icosahedron.cs",
+              "RelativeToolTip": "Icosahedron.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:09:28.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tetrahedron.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\computer_graphics-master\\lab7\\task1\\Graphics7\\Tetrahedron.cs",
+              "RelativeDocumentMoniker": "Tetrahedron.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\computer_graphics-master\\lab7\\task1\\Graphics7\\Tetrahedron.cs",
+              "RelativeToolTip": "Tetrahedron.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwCAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:42:50.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Primitive.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\computer_graphics-master\\lab7\\task1\\Graphics7\\Primitive.cs",
+              "RelativeDocumentMoniker": "Primitive.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\computer_graphics-master\\lab7\\task1\\Graphics7\\Primitive.cs",
+              "RelativeToolTip": "Primitive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:42:46.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transform.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\computer_graphics-master\\lab7\\task1\\Graphics7\\Transform.cs",
+              "RelativeDocumentMoniker": "Transform.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\computer_graphics-master\\lab7\\task1\\Graphics7\\Transform.cs",
+              "RelativeToolTip": "Transform.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:21:54.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\computer_graphics-master\\lab7\\task1\\Graphics7\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\computer_graphics-master\\lab7\\task1\\Graphics7\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAG0BAAAAAAAAAAAYwIABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:21:49.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\computer_graphics-master\\lab7\\task1\\Graphics7\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0438\u043D\u0430\\Desktop\\computer_graphics-master\\lab7\\task1\\Graphics7\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:21:14.196Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
