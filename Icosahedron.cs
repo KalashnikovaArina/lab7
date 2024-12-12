@@ -103,8 +103,8 @@ namespace Graphics6
             int count = -1;
             foreach (var Verge in Verges)
             {
-                count+=1;
-                Verge.Draw(g, count, projection, width, height);
+                count += 1;
+                Verge.Draw(g, count, projection, width, height, this.Center);
             }
         }
 
